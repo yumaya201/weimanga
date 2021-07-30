@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Wei Manga",
+  "author":"Wibu",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://weimanga.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"m.tribunnews.com",
+      "target":"weimanga.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
